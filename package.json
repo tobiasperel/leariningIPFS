@@ -1,0 +1,16 @@
+{
+  "name": "leariningipfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peer",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs": "^0.65.0"
+  }
+}
