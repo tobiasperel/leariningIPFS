@@ -11,6 +11,7 @@
   "author": "peer",
   "license": "ISC",
   "dependencies": {
-    "ipfs": "^0.65.0"
+    "ipfs": "^0.65.0",
+    "ipfs-http-client": "^59.0.0"
   }
 }
